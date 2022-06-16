@@ -12,8 +12,7 @@
 + Choosing CGMs and PGMs according to gene frequency 
 ### 3. Testing the workflow 
 + Mimic contigs -- 02.rand\_2To200k.py --> 02.mimic_contig.fa.7z
-+ Subset of human gut bacterial isolates -- 03.sel_isolates 
-+ Results -- 02.mimic\_test\_res & 03.sel_isolates\_test\_res
+
 
  
 
