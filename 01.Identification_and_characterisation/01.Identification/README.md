@@ -11,7 +11,7 @@
 + Computing Pfam gene frequency on plasmid/chromosome fragments by Diamond -- 02.pfam_ratio.xlsx
 + Choosing CGMs and PGMs according to gene frequency 
 ### 3. Testing the workflow 
-+ Mimic contigs -- 02.rand\_2To200k.py --> 02.mimic_contig.fa.7z
++ Mimic contigs -- 02.rand\_2To200k.py & sel_contig.R --> 02.mimic_contig.fa.7z
 
 
  
